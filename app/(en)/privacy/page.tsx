@@ -33,7 +33,7 @@ export default function Privacy() {
         </ul>
         <h2 className={styles.heading}>5. Contact</h2>
         <p className={styles.text}>
-          If you have any questions, contact us at <a href="mailto:support@lipe.app" className={styles.link}>support@lipe.app</a>
+          If you have any questions, contact us at <a href="mailto:lipe@lovigin.com" className={styles.link}>lipe@lovigin.com</a>
         </p>
         <hr className={styles.divider} />
         <p className={styles.note}>

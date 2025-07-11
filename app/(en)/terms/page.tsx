@@ -24,7 +24,7 @@ export default function Terms() {
         <h2 className={styles.heading}>5. Changes</h2>
         <p className={styles.text}>We may update these terms. Continued use means you accept the latest version.</p>
         <h2 className={styles.heading}>6. Contact</h2>
-        <p className={styles.text}>Email us at <a href="mailto:support@lipe.app" className={styles.link}>support@lipe.app</a> with any questions.</p>
+        <p className={styles.text}>Email us at <a href="mailto:lipe@lovigin.com" className={styles.link}>lipe@lovigin.com</a> with any questions.</p>
         <hr className={styles.divider} />
         <p className={styles.note}>These terms are subject to updates. Please check them periodically.</p>
       </section>
